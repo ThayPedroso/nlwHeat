@@ -73,5 +73,3 @@ class AuthenticateUserService {
 }
 
 export { AuthenticateUserService };
-
-// parei em 1:04:10
